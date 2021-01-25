@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 require './lib/bookmark'
 require 'sinatra'
 # This is an app for organising Bookmarks

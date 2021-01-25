@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 feature 'Viewing bookmark' do
   scenario 'on /bookmarks' do
     visit('/bookmarks')

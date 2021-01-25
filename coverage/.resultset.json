@@ -1,7 +1,7 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/annie/MakersProjs/bookmark_manager/spec/bookmark_spec.rb": {
+      "/Users/katrinaharradine/Documents/Coding/Makers/projects/week_4/bookmark-anna/bookmark_manager/spec/bookmark_spec.rb": {
         "lines": [
           1,
           null,
@@ -18,20 +18,7 @@
           null
         ]
       },
-      "/Users/annie/MakersProjs/bookmark_manager/lib/bookmark.rb": {
-        "lines": [
-          1,
-          1,
-          null,
-          1,
-          null,
-          null,
-          null,
-          null,
-          null
-        ]
-      },
-      "/Users/annie/MakersProjs/bookmark_manager/spec/features/basic_setup_spec.rb": {
+      "/Users/katrinaharradine/Documents/Coding/Makers/projects/week_4/bookmark-anna/bookmark_manager/spec/features/basic_setup_spec.rb": {
         "lines": [
           null,
           null,
@@ -43,7 +30,7 @@
           null
         ]
       },
-      "/Users/annie/MakersProjs/bookmark_manager/spec/features/view_bookmarks_spec.rb": {
+      "/Users/katrinaharradine/Documents/Coding/Makers/projects/week_4/bookmark-anna/bookmark_manager/spec/features/view_bookmarks_spec.rb": {
         "lines": [
           1,
           1,
@@ -54,6 +41,6 @@
         ]
       }
     },
-    "timestamp": 1611591113
+    "timestamp": 1611591442
   }
 }
