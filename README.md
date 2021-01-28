@@ -1,6 +1,6 @@
 # Bookmark_manager
 
-[User story]("user_story_1.png")
+[User story](user_story_1.png)
 
 #### Creating the Database
 1. Connect to ```psql```
